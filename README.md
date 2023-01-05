@@ -1,6 +1,6 @@
 ## Hi👋, I'm Kazi Shakib Uddin.👨‍💻
 ## **Mobile Apps Developer**
-I'm an App developer and programmer having 6 month professional and 1.5+ years learning experience in the programing field. 
+I'm an App developer and programmer having 7 months professional and 1.5+ years learning experience in the programing field. 
 Since my start, I have created Android, Flutter, Swing projects and can created a rest api file with php.
 - ✅I’m currently working on MotorX as a Junior Flutter Developer.(6 months)
 - ✅Working on Flutter Riverpod, Firestore, FirebaseAuth, Google Map, Localization, Theming and many others.
