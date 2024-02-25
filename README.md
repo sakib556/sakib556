@@ -1,6 +1,6 @@
 ## Hi👋, I'm Kazi Shakib Uddin.👨‍💻
 ## **Mobile Apps Developer**
-I'm a Mobile Apps Developer having 1.8 years professional experience.
+I'm a Mobile Apps Developer having about 2 years professional experience.
 Since my start, I have created Native Android, Flutter, Swing projects.
 - ✅I’m currently working on Omega Solution as a Junior Software Engineer.
 - ✅Working on Flutter Riverpod, BLoC, rest api integration, payment gateway and many others.
