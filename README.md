@@ -1,7 +1,3 @@
-Okay, I've updated your profile text to include the links directly where they belong, and I've also formatted them in a way that LinkedIn typically handles well.
-
-Here's your updated profile content, ready for copy-pasting:
-
 ```
 ## Hi 👋, I'm Kazi Shakib Uddin 👨‍💻
 ### **Software Engineer (Flutter)**
