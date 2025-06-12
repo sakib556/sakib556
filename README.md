@@ -1,96 +1,111 @@
-```
-## Hi 👋, I'm Kazi Shakib Uddin 👨‍💻
-### **Software Engineer (Flutter)**
-
-I'm a Mobile Apps Developer with around 3 years of professional experience.
-I have worked on Native Android, Flutter, ESP32 programming and Java Swing projects.
-
-- ✅ Currently working at **Hasan's IT Solution** as a Software Engineer.
-- ✅ Building apps with **Flutter (Riverpod, GetX, MVC, MVVM, Clean Architecture)**, **REST API integration**, **Payment Gateways**, **BLE**, and **IoT** technologies.
-- ✅ Actively learning **Data Structures & Algorithms**, **AI & ML**, **IoT systems**, and solving coding challenges.
-
----
-### 🔧 Programming Languages:
-- 🟢 C
-- 🟢 C++
-- 🟢 Java
-- 🟢 Dart
-- 🟢 Python
-
-### ⚙️ Frameworks & Technologies:
-- 🟢 Flutter
-- 🟢 Native Android
-- 🟢 Java Swing
-- 🟢 SQL, NoSQL(Firebase)
-- 🟢 REST APIs Integration
-- 🟢 Git & GitHub
-- 🟢 Google Console API Integration
+<h2 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Kazi Shakib Uddin</span> 👨‍💻</h2>
+<h3 align="center">Software Engineer (Flutter)</h3>
 
 ---
 
-## 🚀 Projects (Lead Developer & Significant Contributor):
+🚀 I'm a **Mobile App Developer** with around **3 years of professional experience**.  
+💻 I've worked on **Native Android**, **Flutter**, **ESP32 (C++)**, and **Java Swing** projects.
 
-### 🔹 **Pharmacy Management System** *(SaaS – Android, iOS, Web)*
-A multi-user SaaS platform for pharmacy operations.
-Built using **Flutter (Riverpod, Clean Architecture)** with REST APIs.
-Features include inventory, sales, and user role management. *(Ongoing Project)*
-
----
-
-### 🔹 **Easy ISP Mobile App**
-A comprehensive cross-platform app for ISPs featuring:
-- 🔸 HLS Live TV Streaming
-- 🔸 Bkash Payment Gateway Integration
-- 🔸 Multi-role login (Admin, PPPoE, Hotspot)
-Built with **Flutter (GetX, Clean Architecture)** & **REST APIs**, with smooth animations and high responsiveness.
+- ✅ Currently working at **Hasan's IT Solution** as a Software Engineer.  
+- 🔧 Building apps with **Flutter (Riverpod, GetX, MVC, MVVM, Clean Architecture)**  
+- 🌐 Integrated **REST APIs**, **BLE**, **Payment Gateways**, and **IoT** technologies.  
+- 📚 Currently learning **Data Structures & Algorithms**, **AI/ML**, and **IoT Systems**.
 
 ---
 
-### 🔹 **RevotTec – Home Automation & Control System**
-Developed a smart home controller app with:
-- 🔸 **Flutter (GetX, MVC)**
-- 🔸 Firebase Firestore, Realtime DB
-- 🔸 FCM Notifications
-- 🔸 Firebase Cloud Functions (JavaScript)
-Also contributed to **ESP32 programming (C++)** for BLE and automation logic.
-**Google Play Store:** https://play.google.com/store/apps/details?id=at.gmbh.revotec&hl=en
-**Apple App Store:** https://apps.apple.com/lu/app/revotec/id6744385835
+### 🧠 **Programming Languages**
+| C | C++ | Java | Dart | Python |
+|:-:|:--:|:----:|:----:|:------:|
+🟢 | 🟢 | 🟢 | 🟢 | 🟢
 
 ---
 
-### 🔹 **BMZ / Fire Alert System**
-A critical safety app for real-time fire alerts, featuring:
-- 🔸 HLS Live Streaming
-- 🔸 Secure Admin/User Logins
-- 🔸 Firebase Firestore, FCM, Cloud Functions
-Built with **Flutter (Riverpod, MVVM)** and custom ESP32 firmware.
-**Google Play Store:** https://play.google.com/store/apps/details?id=at.salzachsonne.bmzlink&hl=en
-**Apple App Store:** https://apps.apple.com/us/app/bmz-link/id6670425281?uo=2
+### ⚙️ **Frameworks & Technologies**
+| Flutter | Android | Java Swing | SQL / Firebase | REST API | Git & GitHub | Google Console API |
+|:-------:|:--------:|:----------:|:--------------:|:--------:|:------------:|:------------------:|
+🟢       | 🟢        | 🟢          | 🟢              | 🟢        | 🟢            | 🟢
 
 ---
 
-### 🔹 **eLight Medical App (iOS)**
-Worked on the **eLightICG** app for fluorescence-guided surgeries using NIR devices.
-Focused on creating an intuitive UI to enhance accessibility to advanced diagnostics.
-**Apple App Store:** https://apps.apple.com/ng/app/elighticg/id6456452214
+## 🚀 **Featured Projects**  
+*(Lead Developer or Key Contributor)*
 
 ---
 
-### 🔹 **BLE Inverter Machine Controller App**
-Built a Flutter app using **flutter_blue_plus** to control 3 different BLE inverter machines (SAC, SAP, AESB).
-Implemented full BLE communication protocol and developed animated UIs using **Flutter (GetX, MVC)**.
+### 🔹 Pharmacy Management System *(SaaS – Android, iOS, Web)*
+📦 A multi-user SaaS platform for pharmacies  
+🔧 Built with **Flutter (Riverpod, Clean Architecture)** + **REST APIs**  
+🧰 Features: Inventory, Sales, Multi-role User Management  
+🛠️ *Status: Ongoing*
 
 ---
 
-### 🔹 **WiFi Restaurant Controller App**
-Designed a smart restaurant controller app integrating:
-- 🔸 **Flutter (GetX, MVC)**
-- 🔸 REST APIs
-- 🔸 Custom TCP Communication Protocol
-Crafted all UI screens and implemented robust backend communication logic.
+### 🔹 Easy ISP Mobile App
+📡 Cross-platform app for ISPs  
+📺 Features:
+- HLS Live TV Streaming  
+- Bkash Payment Gateway  
+- Multi-role Login (Admin, PPPoE, Hotspot)  
+
+🔧 Built with **Flutter (GetX, Clean Architecture)** + **REST APIs**
 
 ---
 
-Thank you for visiting my profile!
-Feel free to explore my repositories and reach out for collaboration or freelance work.
-```
+### 🔹 RevotTec – Home Automation System  
+🏠 Smart Home Controller App  
+📲 Built with:
+- **Flutter (GetX, MVC)**  
+- **Firebase Firestore**, **Realtime DB**  
+- **FCM**, **Cloud Functions (JavaScript)**  
+🔌 ESP32 Firmware (C++) for automation
+
+📥 [Google Play Store](https://play.google.com/store/apps/details?id=at.gmbh.revotec&hl=en)  
+📱 [Apple App Store](https://apps.apple.com/lu/app/revotec/id6744385835)
+
+---
+
+### 🔹 BMZ / Fire Alert System  
+🔥 Real-time critical alert app  
+📺 Features:
+- HLS Live Streaming  
+- Secure Admin/User Login  
+- Firebase Firestore, FCM, Cloud Functions  
+🔧 Built with **Flutter (Riverpod, MVVM)** + ESP32 Integration
+
+📥 [Google Play Store](https://play.google.com/store/apps/details?id=at.salzachsonne.bmzlink&hl=en)  
+📱 [Apple App Store](https://apps.apple.com/us/app/bmz-link/id6670425281?uo=2)
+
+---
+
+### 🔹 eLight Medical App (iOS)  
+🩺 App for **fluorescence-guided surgeries** using NIR Devices  
+🎯 Focused on intuitive medical UI for better diagnostics  
+📱 Built for iOS only
+
+📱 [Apple App Store](https://apps.apple.com/ng/app/elighticg/id6456452214)
+
+---
+
+### 🔹 BLE Inverter Machine Controller App  
+🔌 Controlled 3 BLE inverter machines (SAC, SAP, AESB)  
+🔧 Built with:
+- **Flutter (GetX, MVC)**  
+- **flutter_blue_plus**  
+- Custom animations and complete BLE protocol
+
+---
+
+### 🔹 WiFi Restaurant Controller App  
+🍽️ Smart restaurant management system  
+🔗 Features:
+- **Flutter (GetX, MVC)**  
+- **REST APIs**  
+- **Custom TCP Communication**  
+🧩 Designed and implemented full UI and backend logic
+
+---
+
+### 🙏 Thank You for Visiting!
+
+📬 Feel free to explore my repositories and reach out for collaboration or freelance work.  
+Let's build something amazing together 🚀
