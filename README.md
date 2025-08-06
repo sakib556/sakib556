@@ -9,7 +9,7 @@
 - ✅ Currently working at **Hasan's IT Solution** as a Software Engineer.  
 - 🔧 Building apps with **Flutter (Riverpod, GetX, MVC, MVVM, Clean Architecture)**  
 - 🌐 Integrated **REST APIs**, **BLE**, **Payment Gateways**, and **IoT** technologies.  
-- 📚 Currently learning **Data Structures & Algorithms**, **AI/ML**, and **IoT Systems**.
+- 📚 Currently learning **Data Structures & Algorithms**, **AI/ML**, **PostgreSQL**, and **System Design**.
 
 ---
 
@@ -27,11 +27,9 @@
 
 ---
 
-## 🚀 **Featured Projects**  
+## 🚀 **Professional Projects**  
 *(Lead Developer or Key Contributor)*
-
 ---
-
 ### 🔹 Pharmacy Management System *(SaaS – Android, iOS, Web)*
 📦 A multi-user SaaS platform for pharmacies  
 🔧 Built with **Flutter (Riverpod, Clean Architecture)** + **REST APIs**  
@@ -41,13 +39,13 @@
 ---
 
 ### 🔹 Easy ISP Mobile App
-📡 Cross-platform app for ISPs  
+📡 Android app for a ISP Company.
+Tech Stack : Flutter, GetX, MVC architecture, REST API integration, video streaming, Bkash Payment Gateway etc.
+Client Website: https://easyisp24.com/
 📺 Features:
 - HLS Live TV Streaming  
-- Bkash Payment Gateway  
+- Bkash and SSL Commerze Payment Gateway 
 - Multi-role Login (Admin, PPPoE, Hotspot)  
-
-🔧 Built with **Flutter (GetX, Clean Architecture)** + **REST APIs**
 
 ---
 
