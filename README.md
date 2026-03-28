@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Kazi Shakib Uddin</span> 👨‍💻</h2>
-<h3 align="center">Software Engineer (Flutter)</h3>
+<h3 align="center">Software Engineer (Flutter,IoT,Andoroid,iOS)</h3>
 
 ---
 
