@@ -3,10 +3,10 @@
 
 ---
 
-🚀 I'm a **Mobile App Developer** with around **3.6 years of professional experience**.  
+🚀 I'm a **Mobile App Developer** with around **4 years of professional experience**.  
 💻 I've worked on **Native Android**, **Flutter**, **ESP32 (C++)**, and **Java Swing** projects.
 
-- ✅ Currently working at **Hasan's IT Solution** as a Software Engineer.  
+- ✅ Currently working at **Vaizans Tech** as a Software Engineer.  
 - 🔧 Building apps with **Flutter (Riverpod, GetX, MVC, MVVM, Clean Architecture)**  
 - 🌐 Integrated **REST APIs**, **BLE**, **Payment Gateways**, and **IoT** technologies.  
 - 📚 Currently learning **Data Structures & Algorithms**, **AI/ML**, **PostgreSQL**, and **System Design**.
